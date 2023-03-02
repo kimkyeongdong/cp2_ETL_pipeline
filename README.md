@@ -99,7 +99,7 @@ IP+80포트로 접속 후 Admin 페이지에서 connections 클릭 후 add a new
 
 
 7. 결과화면
-![image](https://user-images.githubusercontent.com/109950265/222450390-75e77c25-80e2-4b98-9533-1fa4f298036c.png)
+![image](https://user-images.githubusercontent.com/109950265/222450646-3af00693-6479-4145-9cee-36f5a7688cb3.png)
 
 
 ## 추가내용
